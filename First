@@ -1,0 +1,7 @@
+#This is my first R program
+Name="Harsh Gupta"
+USN="1AY23AI046"
+CGPA=8.4
+print(Name)
+print(USN)
+print(CGPA)
